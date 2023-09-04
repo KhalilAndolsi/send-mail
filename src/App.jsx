@@ -43,7 +43,7 @@ function App() {
               Email
             </label>
             <input
-              type="text"
+              type="email"
               name="user_email"
               className="rounded-md px-2 py-1 outline-none border-0 text-zinc-900 font-medium"
               placeholder="Your Email Address"
